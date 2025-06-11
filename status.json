@@ -1,1 +1,33 @@
-{"city": "Mumbai", "temp": 34}
+{
+  "Delhi": {
+    "condition": "Partly cloudy",
+    "temperature_c": 24.2,
+    "updated_at": "2025-06-11T18:00:42.506541Z"
+  },
+  "Mumbai": {
+    "condition": "Mist",
+    "temperature_c": 30.3,
+    "updated_at": "2025-06-11T18:00:42.790290Z"
+  },
+  "Bangalore": {
+    "condition": "Partly cloudy",
+    "temperature_c": 22.2,
+    "updated_at": "2025-06-11T18:00:43.096189Z"
+  },
+  "Chennai": {
+    "condition": "Mist",
+    "temperature_c": 28.4,
+    "updated_at": "2025-06-11T18:00:43.377240Z"
+  },
+  "Hyderabad": {
+    "condition": "Patchy rain nearby",
+    "temperature_c": 28.3,
+    "updated_at": "2025-06-11T18:00:43.661132Z"
+  },
+  "Gurgaon": {
+    "condition": "Overcast",
+    "temperature_c": 36.3,
+    "updated_at": "2025-06-11T18:00:43.924716Z"
+  },
+  "last_updated": "2025-06-11T18:00:43.924770Z"
+}
