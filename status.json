@@ -1,38 +1,38 @@
 {
   "Delhi": {
     "condition": "Partly cloudy",
-    "temperature_c": 15.3,
-    "updated_at": "2025-06-12T08:17:15.111749Z"
+    "temperature_c": 14.4,
+    "updated_at": "2025-06-12T10:03:38.345814Z"
   },
   "Mumbai": {
-    "condition": "Overcast",
-    "temperature_c": 33.4,
-    "updated_at": "2025-06-12T08:17:16.851559Z"
+    "condition": "Mist",
+    "temperature_c": 33.2,
+    "updated_at": "2025-06-12T10:03:39.347522Z"
   },
   "Bangalore": {
     "condition": "Partly cloudy",
-    "temperature_c": 26.1,
-    "updated_at": "2025-06-12T08:17:17.597908Z"
+    "temperature_c": 28.1,
+    "updated_at": "2025-06-12T10:03:40.339546Z"
   },
   "Chennai": {
     "condition": "Partly cloudy",
-    "temperature_c": 35.1,
-    "updated_at": "2025-06-12T08:17:18.173803Z"
+    "temperature_c": 36.2,
+    "updated_at": "2025-06-12T10:03:41.339205Z"
   },
   "Hyderabad": {
     "condition": "Mist",
-    "temperature_c": 31.0,
-    "updated_at": "2025-06-12T08:17:18.974206Z"
+    "temperature_c": 31.3,
+    "updated_at": "2025-06-12T10:03:42.339435Z"
   },
   "Gurgaon": {
     "condition": "Mist",
-    "temperature_c": 41.2,
-    "updated_at": "2025-06-12T08:17:19.641565Z"
+    "temperature_c": 42.3,
+    "updated_at": "2025-06-12T10:03:43.339394Z"
   },
   "Taipei": {
-    "condition": "Light rain",
+    "condition": "Partly cloudy",
     "temperature_c": 27.3,
-    "updated_at": "2025-06-12T08:17:20.397976Z"
+    "updated_at": "2025-06-12T10:03:44.339234Z"
   },
-  "last_updated": "2025-06-12T08:17:20.397994Z"
+  "last_updated": "2025-06-12T10:03:44.339234Z"
 }
