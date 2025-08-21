@@ -1,32 +1,32 @@
 {
   "Delhi": {
-    "condition": "Fog",
-    "temperature_c": 19.4,
-    "updated_at": "2025-08-20T11:31:12.558326Z"
+    "condition": "Overcast",
+    "temperature_c": 15.9,
+    "updated_at": "2025-08-21T11:31:12.528532Z"
   },
   "Mumbai": {
-    "condition": "Light rain",
-    "temperature_c": 26.2,
-    "updated_at": "2025-08-20T11:31:13.207153Z"
+    "condition": "Mist",
+    "temperature_c": 28.0,
+    "updated_at": "2025-08-21T11:31:13.162100Z"
   },
   "Bangalore": {
     "condition": "Partly cloudy",
-    "temperature_c": 25.4,
-    "updated_at": "2025-08-20T11:31:13.847490Z"
+    "temperature_c": 28.3,
+    "updated_at": "2025-08-21T11:31:13.802316Z"
   },
   "Chennai": {
     "condition": "Partly cloudy",
-    "temperature_c": 35.3,
-    "updated_at": "2025-08-20T11:31:14.512296Z"
+    "temperature_c": 34.1,
+    "updated_at": "2025-08-21T11:31:14.451439Z"
   },
   "Hyderabad": {
-    "condition": "Mist",
-    "temperature_c": 26.1,
-    "updated_at": "2025-08-20T11:31:15.152603Z"
+    "condition": "Partly cloudy",
+    "temperature_c": 29.3,
+    "updated_at": "2025-08-21T11:31:15.091687Z"
   },
   "Gurgaon": {
-    "condition": "Mist",
-    "temperature_c": 34.0,
-    "updated_at": "2025-08-20T11:31:15.817049Z"
+    "condition": "Moderate or heavy rain with thunder",
+    "temperature_c": 31.2,
+    "updated_at": "2025-08-21T11:31:15.740986Z"
   }
 }
